@@ -1,1 +1,1 @@
-# Counting-Valleys-ALGO
+# Counting-Valleys-ALGO.This program counts how many valleys a hiker walks through by tracking elevation changes: every time the hiker returns to sea level after going below (with an 'U' step bringing level back to 0), it increments the valley count.
